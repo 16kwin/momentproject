@@ -1,10 +1,10 @@
-package com.project.momentproject;
+package my.app.moment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MomentprojectApplicationTests {
+class MomentApplicationTests {
 
 	@Test
 	void contextLoads() {
